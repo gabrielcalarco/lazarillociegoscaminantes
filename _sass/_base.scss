@@ -12,7 +12,7 @@ a {
     /* remove link underline */ 
     text-decoration: none;
     @if $link-color != "" { 
-        color: #85690a; 
+        color: #b28b0dff; 
         &:hover {
             @if $text-color != "" { color: $text-color; }
         }
@@ -80,7 +80,7 @@ a {
     right: 20px; 
     z-index: 99;
     font-size: 40px; 
-    color: #85690a;
+    color: #b28b0dff;
 }
 
 /* feature include tweaks */
