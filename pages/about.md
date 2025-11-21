@@ -12,11 +12,11 @@ credits: true
 
 ## Sobre la edición
 
-Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" target="_blank">Laboratorio de Humanidades Digitales del CONICET</a>** y el **<a href="https://www.utdt.edu/ver_contenido.php?id_contenido=103&id_item_menu=438" target="_blank">Departamento de Estudios Históricos y Sociales</a>** de la **Universidad Torcuato Di Tella**, a través de la materia “Humanidades Digitales”. En este curso, se le propuso a los estudiantes crear una edición digital en lenguaje XML-TEI que cuente con notas al pie interactivas, locaciones georreferenciadas y material adicional como imágenes. 
+Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" target="_blank">Laboratorio de Humanidades Digitales del CONICET</a>** y el **<a href="https://www.utdt.edu/ver_contenido.php?id_contenido=103&id_item_menu=438" target="_blank">Departamento de Estudios Históricos y Sociales</a>** de la **Universidad Torcuato Di Tella**, para el dictado de una materia de Humanidades Digitales, a cargo de la Dra. Gimena del Rio Riande y el Lic. Gabriel Calarco. En este curso, se le propuso a los estudiantes crear una edición digital en lenguaje XML-TEI que cuente con notas al pie interactivas, locaciones georreferenciadas y material adicional como imágenes. A continuación se detalla el trabajo realizado por cada grupo y las y los integrantes que lo componen.
 
 ## Grupo 1
 
-**De Montevideo a Buenos Aires**
+<b><a href="https://courtadepilar-coder.github.io/repositorioprueba/" target="_blank">De Montevideo a Buenos Aires (Ir al sitio del grupo)</a></b>
 
 <ul>
     <li><hi>Arreguez Matias Lujan Daniel (Universidad Torcuato Di Tella)</hi></li>
@@ -31,7 +31,7 @@ A la hora de elaborar esta visualizacion, recurrimos a Github para hacer una cop
 
 ## Grupo 2
 
-**Notas a la región de Buenos Aires**
+<b><a href="https://claracaputo-mor.github.io/plantilla-hd-1/" target="_blank">Notas a la región de Buenos Aires (Ir al sitio del grupo)</a></b>
 
 <ul>
     <li><hi><a href="https://www.linkedin.com/in/diana-h-cardozo">Diana Cardozo (Universidad Torcuato Di Tella)</a></hi></li>
@@ -55,7 +55,7 @@ Finalmente, en una cuarta etapa, realizamos modificaciones en el sitio web para 
 
 ## Grupo 3
 
-**Jurisdicción de Córdoba**
+<b><a href="https://cosarinskysol-boop.github.io/Grupo3-G3-I6/" target="_blank">Jurisdicción de Córdoba (Ir al sitio del grupo)</a></b>
 
 <ul>
     <li><hi><a href="https://www.linkedin.com/in/emma-alvarez1/" target = "_blank">Emma Alvarez (UTDT)</a></hi></li>
